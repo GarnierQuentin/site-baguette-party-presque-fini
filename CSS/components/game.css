@@ -1,0 +1,61 @@
+#game{
+    display: flex;
+    align-items: center;
+    background-color: #474747;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: whitesmoke;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+#presentation_of_piece{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+#li_parts_of_game {
+    font-size: 1.3vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+
+#items{
+    display: flex;
+
+}
+
+#separateur{
+    width: 20%;
+}
+
+.solo_item{
+    background-color: whitesmoke;  
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+    border-radius: 1000px;
+    padding: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 125%;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.solo_item:hover{
+    background-color: black;
+    color: whitesmoke;
+    transition: all 0.5s;
+}
+
+#video2{
+    width: 75%;
+    border-radius: 10px;
+}

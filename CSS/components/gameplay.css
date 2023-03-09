@@ -1,0 +1,31 @@
+#gameplay{
+    display: flex;
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+    align-items: center;
+    font-size: 1.5vw;
+}
+
+#teaser_product{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vido_gameplay{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+#teaser_gameplay{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#video3{
+    width: 100%;
+    border-radius: 10px;
+    border: solid 5px orange;
+}

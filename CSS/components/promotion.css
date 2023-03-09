@@ -1,0 +1,17 @@
+#promotion{
+    display: flex;
+    align-items: center;
+}
+
+#pitch{
+    font-size: 1vw;
+    width: 40%;
+    padding: 5%;
+}
+
+#video{
+    width: 40%;
+    height: auto;
+    border-radius: 10px;
+    border : solid 3px orange;
+}

@@ -1,0 +1,26 @@
+#kickstarter{
+    display: flex;
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+    align-items: center;
+    font-size: 1.5vw;
+    background-color: gray;
+    color: whitesmoke;
+}
+
+#intro_kickstarter{
+    margin-left: 1%;
+}
+
+#palliers{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1vw;
+    margin-right: 1%;
+}
+
+.palier_unique{
+    border: solid whitesmoke 5px;
+    padding: 3%;
+    font-size: 1vw;
+}
